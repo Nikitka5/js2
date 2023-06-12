@@ -14,4 +14,4 @@
 https://github.com/Nikitka5/js2/assets/122780039/5b4de516-208e-454e-9aa5-e884f843be30
 
 # Ответы на вопросы.
-![Image alt](https://github.com/Nikitka5/js2/blob/main/png/Снимок%20экрана%202023-06-12%20142409.png)
+![Image alt](https://github.com/Nikitka5/js2/blob/main/png/Снимок%20экрана%202023-06-12%20145603.png)
