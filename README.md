@@ -11,7 +11,8 @@
 # Видео.
 
 
-https://github.com/Nikitka5/js2/assets/122780039/5b4de516-208e-454e-9aa5-e884f843be30
+https://github.com/Nikitka5/js2/assets/122780039/7b1f1928-3e5f-4ca7-aee1-46f6260232a4
+
 
 # Ответы на вопросы.
 ![Image alt](https://github.com/Nikitka5/js2/blob/main/png/Снимок%20экрана%202023-06-12%20145603.png)
